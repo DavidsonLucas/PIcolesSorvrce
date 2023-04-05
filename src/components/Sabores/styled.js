@@ -5,7 +5,7 @@ export const Container = styled.div`
     align-items: center;
     justify-content: space-between;
     display: none;
-    padding: 10px 0;
+    padding: 10.8px 0;
    
     
     img{
